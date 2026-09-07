@@ -1,0 +1,7 @@
+{
+  "name": "QuickDraw",
+  "description": "Pływający aktywator gestów do błyskawicznego uruchamiania aplikacji, stron i akcji systemowych.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
